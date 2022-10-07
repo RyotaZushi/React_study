@@ -1,0 +1,18 @@
+header {
+    background-color: rgb(48, 111, 213);
+    height: 1.5cm;
+    font-style: normal;
+    color: #fff;
+}
+
+nav {
+    background-color: rgb(48, 111, 213);
+    color: #fff
+}
+
+.bar {
+    height: 30px;
+    color: #888;
+    display: flex;
+    flex-flow: column;
+}
