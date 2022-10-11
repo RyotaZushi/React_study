@@ -1,0 +1,11 @@
+.Header {
+    background-color: rgb(48, 111, 213);
+    height: 1.5cm;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Header__title {
+    color: #fff;
+}
