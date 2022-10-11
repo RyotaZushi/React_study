@@ -1,8 +1,9 @@
 header {
     background-color: rgb(48, 111, 213);
     height: 1.5cm;
-    font-style: normal;
-    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 nav {
@@ -15,4 +16,12 @@ nav {
     color: #888;
     display: flex;
     flex-flow: column;
+}
+
+.headerTitle {
+    color: #fff;
+}
+
+footer {
+    background-color: blue;
 }
