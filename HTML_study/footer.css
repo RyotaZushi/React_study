@@ -1,4 +1,4 @@
-.Fotter {
+.footer {
     color: #fff;
     background-color: blue;
     display: flex;
@@ -6,7 +6,7 @@
     justify-content: space-around;
 }
 
-.Fotter__list {
+.footer__list {
     color: #fff;
     display: flex;
     flex-direction: column;
