@@ -1,3 +1,15 @@
 .Fotter {
+    color: #fff;
     background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Fotter__list {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-size: small;
 }
